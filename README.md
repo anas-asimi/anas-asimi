@@ -48,6 +48,8 @@ march 2022 and now I have HTML and CSS while I am learning JavaScript, my journe
   <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="30"> 
   Github Stats:
 </h3>
+  </div>
+  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anas-asimi&show_icons=true&theme=github_dark">
 </div>
 
