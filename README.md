@@ -33,8 +33,8 @@ march 2022 and now I have HTML and CSS while I am learning JavaScript, my journe
 </h3>
 </div>
 
-<div>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=anas-asimi&theme=dark">
+<div align="center">
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=noamangg&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
   <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noamangg&layout=compact&theme=dark">
 </div>
@@ -86,6 +86,6 @@ march 2022 and now I have HTML and CSS while I am learning JavaScript, my journe
 <div>
   <h3>
     <img width="30" src="https://media.giphy.com/media/Kd5t8Q0aUDui9yaf9n/giphy.gif" alt="contact us icon">
-    Feel Free To Contact
+    Feel Free To Contact:
   </h3>
 </div>
