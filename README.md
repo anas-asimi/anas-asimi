@@ -37,7 +37,7 @@ march 2022 and now I have HTML and CSS while I am learning JavaScript, my journe
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=anas-asimi&theme=dark&background=0D1117">
   <br />
   <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-asimi&layout=compact&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-asimi&layout=compact&theme=github_dark">
 </div>
 
 <br />
@@ -48,7 +48,7 @@ march 2022 and now I have HTML and CSS while I am learning JavaScript, my journe
   <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="30"> 
   Github Stats:
 </h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=noamangg&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=anas-asimi&show_icons=true&theme=github_dark">
 </div>
 
 
