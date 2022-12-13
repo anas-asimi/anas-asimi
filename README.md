@@ -1,7 +1,7 @@
-<h1 align="center">Hey There I'm Noaman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
-<h3 align="center">A Self Teach Front End Developer & A Software Enginner</h3>
+<h1 align="center">Hey There I'm Anas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
+<h3 align="center">Self-taught front-end developer with lot of ideas and passion.</h3>
 <h6>My profile describes my journey from the beginning, here you can find my projects and trainings sites, I love to document all this here, I started in
-October 2022 and now I have HTML and CSS while I am learning JavaScript, my journey is just started now</h6>
+march 2022 and now I have HTML and CSS while I am learning JavaScript, my journey is just started now</h6>
 <br />
 
 <!-- Gif -->
@@ -18,12 +18,10 @@ October 2022 and now I have HTML and CSS while I am learning JavaScript, my jour
   </div>
   <img width="350" height="201.25" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" />
   
-- I’m Currently Studying In ITE (Information Technology Engineering).
 - Looking Forward To Master Web Development.
-- I Enjoy Playing Calisthenics and Train So Hard.
 - I Learn Programming, Each Single Day.
 - Seeking For Knowledge & Acquiring New Skills.
-- I'm Currently Learning Java Script.
+- I'm Currently Learning JavaScript.
 
 <br />
 
