@@ -63,11 +63,10 @@ march 2022 and now I have HTML and CSS while I am learning JavaScript, my journe
 </div>
 <p>Let's Discover Together Some Live Projects</p>
 
-- [Basic Site (HTML & CSS)](https://noamangg.github.io/CSS-And-HTML-Template-1-Alone)
-- [Photography Template (HTML & CSS)](https://noamangg.github.io/HTML_And_CSS_Template_Two)
-- [Login Interface (HTML & CSS)](https://noamangg.github.io/login-interface-2)
-- [Tons Of Small Projects (HTML & CSS)](https://noamangg.github.io/Front-End-Challenges-Frontend-Mentor)
-- [Tons Of Basic Interfaces (HTML & CSS)](https://noamangg.github.io/Front-End-Challenges)
+- [My personal Portfolio](https://asimianas.netlify.app/)
+- [Genie Rural tools](https://gr-tools.netlify.app/)
+- [Front-End_Project](https://anas-asimi.github.io/Front-End_Project/)
+- [Egy-Best-Crawler-PupetterJs](https://github.com/anas-asimi/Egy-Best-Crawler-PupetterJs)
 
 <!-- More Info -->
 <div>
