@@ -78,9 +78,9 @@ march 2022 and now I have HTML and CSS while I am learning JavaScript, my journe
 
 
 <div align="left">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noamangg&theme=nord_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=noamangg&theme=nord_dark" alt="Profile Status">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=noamangg&theme=nord_dark&utcOffset=8" alt="Profile Status">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anas-asimi&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anas-asimi&theme=github_dark" alt="Profile Status">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anas-asimi&theme=github_dark&utcOffset=8" alt="Profile Status">
 </div>
 
 <br />
