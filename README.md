@@ -42,9 +42,15 @@ Here my journey from the beginning, you can find my projects and trainings sites
 <h2>My Stats :</h2>
 </div>
 <div align="center">
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=anas-asimi&show_icons=true&theme=github_dark">
+</div>
+<div>
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=anas-asimi&theme=dark&background=0D1117">
+</div>
+<div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-asimi&layout=compact&theme=github_dark">
+</div>
 </div>
 <br />
 <br />
