@@ -70,4 +70,4 @@ Here my journey from the beginning, you can find my projects and trainings sites
 <!-- More Info -->
 <div>
 <!-- Contact Me -->
-<h2 align="left" >Feel Free To Contact <a href='https://www.linkedin.com/in/anas-asimi/'>here</a></h2>
+<h3 align="left" >Feel Free To Contact <a href='https://www.linkedin.com/in/anas-asimi/'>here</a></h3>
