@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm anas asimi</h1>
 <h4 align="center" style="color:#FF6969">A passionate frontend developer from Morroco</h4>
 <br>
-<p>Here is my journey from the beginning, you can find my projects and training sites, I love to document all this here, I started in March 2022 and now I have HTML, CSS and JavaScript, and my journey <span style="color:#FF6969">continue</span>
+<p>Here is my journey from the beginning, you can find my projects and training sites, I love to document all this here, I started in March 2022 and now I have HTML, CSS and JavaScript, and my journey <span style= "color:#FF6969">continue</span>
 </p>
 <br />
 <!-- About me -->
@@ -45,7 +45,7 @@
 <h2 style="color:#FF6969">My big Projects :</h2>
 <ul>
 <li><a href='https://asimianas.netlify.app'>Personal Portfolio</a></li>
-<li><a href='https://gr-tools.netlify.app'>Genie Rural tools</a></li>
+<li><a href='https://genie-rural-toolkit.netlify.app/'>Genie Rural Toolkit</a></li>
 <li><a href='https://soulara.netlify.app'>Soulara business</a></li>
 <li><a href='https://github.com/anas-asimi/Egy-Best-Crawler-PupetterJs'>Egy-Best-Crawler-PupetterJs</a></li>
 </ul>
