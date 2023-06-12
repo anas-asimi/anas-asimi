@@ -14,9 +14,7 @@
 
 - 🔭 I’m currently working on **E-commerce website**
 
-- 🌱 I’m currently learning **Express**
-
-- 👨‍💻 All of my projects are available at [asimianas.netlify.app](asimianas.netlify.app)
+- 👨‍💻 All of my projects are available at [my portfolio](asimianas.netlify.app)
 
 - 💬 Ask me about **React**
 
