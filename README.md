@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **E-commerce website**
 
-- 👨‍💻 All of my projects are available at [my portfolio](asimianas.netlify.app)
+- 👨‍💻 All of my projects are available at [my portfolio](www.asimianas.netlify.app)
 
 - 💬 Ask me about **React**
 
